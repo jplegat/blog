@@ -10,11 +10,11 @@ tags: [github]
 
 Some pictures from GitHub Universe 2025.
 <br>
-[!](public/images/IMG_4759.png)
+![](/images/IMG_4759.png)
 <br>
-[!](public/images/IMG_4753.png)
+![](/images/IMG_4753.png)
 <br>
-[!](public/images/IMG_4770.png)
+![](/images/IMG_4770.png)
 <br>
-[!](public/images/IMG_4774.png)
+![](/images/IMG_4774.png)
 
