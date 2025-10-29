@@ -8,7 +8,7 @@ tags: [github]
 
 ## GitHub Universe '25 at the Fort Mason Center in San Francisco
 
-Some pictures from GitHub Universe 2025.
+Pictures from the event - including the cool hackable badge made by [Pimoroni].(https://shop.pimoroni.com/)
 <br>
 ![](images/IMG_4759.png)
 <br>
@@ -17,4 +17,5 @@ Some pictures from GitHub Universe 2025.
 ![](images/IMG_4770.png)
 <br>
 ![](images/IMG_4774.png)
-
+<br>
+![](images/IMG_4775.png)
