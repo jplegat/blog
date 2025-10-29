@@ -10,7 +10,7 @@ tags: [github]
 
 Pictures from the event - including the cool hackable badge made by [Pimoroni](https://shop.pimoroni.com/).
 
-![GitHub Universe 2025](../images/IMG_4753.png)
+![GitHub Universe 2025](https://jplegat.github.io/blog/images/IMG_4753.png)
 
 ![GitHub Universe 2025](https://jplegat.github.io/blog/images/IMG_4759.png)
 
