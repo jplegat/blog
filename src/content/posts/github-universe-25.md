@@ -11,12 +11,12 @@ tags: [github]
 Pictures from the event - including the cool hackable badge made by [Pimoroni](https://shop.pimoroni.com/).
 
 
-![GHU25](../assets/IMG_4759.png)
+![GHU25](IMG_4759.png)
 
-![GHU25](../assets/IMG_4753.png)
+![GHU25](IMG_4753.png)
 
-![GHU25](../assets/IMG_4770.png)
+![GHU25](IMG_4770.png)
 
-![GHU25](../assets/IMG_4774.png)
+![GHU25](IMG_4774.png)
 
-![GHU25](../assets/IMG_4775.png)
+![GHU25](IMG_4775.png)
