@@ -2,12 +2,13 @@
 @import url('https://cdn.staticdelivr.com/gfonts/css2?family=Fira+Code:wght@300..700&display=swap');
 
 :root {
-  --background: #1a170f;
-  --foreground: #eceae5;
-  --accent: #eec35e;
-  --radius: 0;
-  --font-size: 1rem;
-  --line-height: 1.54em;
+  --background: #002b36;    /* Solarized base03 */
+  --foreground: #839496;    /* Solarized base0 */
+  --accent: #b58900;        /* Solarized yellow */
+  --secondary: #268bd2;     /* Solarized blue */
+  --selection: #073642;     /* Solarized base02 */
+  --code-border: #586e75;   /* Solarized base01 */
+  --comment: #586e75;       /* Solarized base01 */
 }
 
 html {
