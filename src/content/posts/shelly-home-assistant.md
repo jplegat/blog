@@ -3,10 +3,10 @@ title: 'Automating with Shelly'
 description: 'Shelly'
 pubDate: 2025-11-11
 author: 'JP Legat'
-tags: ["shelly", "home assistant"]
+tags: ["shelly"]
 ---
 
-## Automating blinders with Shelly
+## Automating blinds with Shelly
 
 Later I will write more details about the [Shelly Plus 2PM](https://us.shelly.com/products/shelly-plus-2pm-ul) - and how it's integrated with [Home Assistant](https://www.home-assistant.io/).
 
