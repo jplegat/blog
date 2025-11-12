@@ -1,0 +1,11 @@
+services:
+  astro-blog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      no_cache: true
+    image: astro:latest
+    container_name: astro-blog
+    ports:
+      - "8888:80"
+    restart: unless-stopped
