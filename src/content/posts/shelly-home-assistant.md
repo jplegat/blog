@@ -3,7 +3,7 @@ title: 'Automating with Shelly'
 description: 'Shelly'
 pubDate: 2025-11-11
 author: 'JP Legat'
-tags: [shelly, automation]
+tags: ["shelly", "home assistant"]
 ---
 
 ## Automating blinders with Shelly
@@ -13,4 +13,4 @@ Later I will write more details about the [Shelly Plus 2PM](https://us.shelly.co
 
 ![Shelly](https://jplegat.github.io/blog/images/IMG_4379.png)
 
-![Shelly](https://jplegat.github.io/blog/images/IMG_4387)
+![Shelly](https://jplegat.github.io/blog/images/IMG_4387.png)
