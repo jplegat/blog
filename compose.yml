@@ -5,9 +5,7 @@ services:
       dockerfile: Dockerfile
       no_cache: true
     image: astro:latest
-    pull_policy: build
-    container_name: astro-local-blog
+    container_name: astro-blog
     ports:
-      - 4321:80
+      - "8888:80"
     restart: unless-stopped
-networks: {}
