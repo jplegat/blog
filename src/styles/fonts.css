@@ -60,3 +60,18 @@
 .text-2xl {
   font-size: calc(var(--font-size) * 1.5);
 }
+
+@font-face {
+  font-family: 'm6x11';
+  src: url('/fonts/m6x11.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'm6x11', monospace, sans-serif;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  image-rendering: pixelated;
+}

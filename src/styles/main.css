@@ -189,3 +189,11 @@ ul ul {
   background: var(--accent);
   color: var(--background);
 }
+
+:root {
+  --font-family: 'm6x11', monospace, sans-serif;
+}
+
+* {
+  font-family: var(--font-family);
+}
