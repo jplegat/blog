@@ -3,7 +3,7 @@ title: 'Astro running on Docker'
 description: 'Docker compose file for Astro locally'
 pubDate: 2025-11-19
 author: 'JP Legat'
-tags: [astro, docker, docker-compose]
+tags: ['astro', 'docker', 'docker-compose']
 ---
 
 ## Compose
