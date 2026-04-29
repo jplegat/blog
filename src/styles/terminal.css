@@ -9,6 +9,8 @@
   --selection: #073642;     /* Solarized base02 */
   --code-border: #586e75;   /* Solarized base01 */
   --comment: #586e75;       /* Solarized base01 */
+  --font-size: 20px;
+  --line-height: 1.6;
 }
 
 html {
