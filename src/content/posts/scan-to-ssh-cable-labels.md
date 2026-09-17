@@ -9,7 +9,7 @@ tags: [homelab, ssh, ios, shortcuts]
 Stick a QR code on each network cable in the rack. Point an iPhone at it, tap the banner, and land in an SSH session on that machine.
 
 <figure>
-  <img src="https://jplegat.github.io/blog/images/scan-to-ssh-label.svg" alt="A printed cable label reading Alpha, 10.0.0.10, user admin, with a QR code on the right">
+  <img src="../../images/scan-to-ssh-label.svg" alt="A printed cable label reading Alpha, 10.0.0.10, user admin, with a QR code on the right">
   <figcaption>One 25 × 75 mm label. The code carries a server name, nothing else.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ One shortcut serves every host. Build it once.
 Open Shortcuts, tap **+** for a new shortcut, tap **Add Action**, and search for **Secure ShellFish**. Choose **Open Server Terminal**. It starts out with an empty Server field and everything else at defaults.
 
 <figure>
-  <img src="https://jplegat.github.io/blog/images/scan-to-ssh-open-server-action.jpg" width="300" alt="The Open Server Terminal action in Shortcuts with an empty Server field, Directory and Command blank, Reuse Existing Terminal off and Run In Shell on">
+  <img src="../../images/scan-to-ssh-open-server-action.jpg" width="300" alt="The Open Server Terminal action in Shortcuts with an empty Server field, Directory and Command blank, Reuse Existing Terminal off and Run In Shell on">
   <figcaption>Leave Directory and Command empty, Reuse Existing Terminal off, Run In Shell on.</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ This picker is a dead end for our purposes, though. Selecting a server here hard
 **Long-press** the Server token rather than tapping it. A different menu appears, offering **Shortcut Input**.
 
 <figure>
-  <img src="https://jplegat.github.io/blog/images/scan-to-ssh-long-press.jpg" width="300" alt="A long-press menu over the Server field offering Ask Each Time, Shortcut Input, and Clear">
+  <img src="../../images/scan-to-ssh-long-press.jpg" width="300" alt="A long-press menu over the Server field offering Ask Each Time, Shortcut Input, and Clear">
   <figcaption>Tap Shortcut Input. The server now comes from whatever the QR code passes in.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ This picker is a dead end for our purposes, though. Selecting a server here hard
 Shortcuts adds a **Receive** block at the top automatically. Rename the shortcut to `srv` via the chevron next to its name — short and space-free, because it goes into every label's URL.
 
 <figure>
-  <img src="https://jplegat.github.io/blog/images/scan-to-ssh-srv-finished.jpg" width="300" alt="The finished shortcut named srv, with a Receive block at the top and the Open action's Server set to Shortcut Input">
+  <img src="../../images/scan-to-ssh-srv-finished.jpg" width="300" alt="The finished shortcut named srv, with a Receive block at the top and the Open action's Server set to Shortcut Input">
   <figcaption>The finished shortcut. Then tap the info button and turn Ask Before Running off, or every scan costs an extra tap.</figcaption>
 </figure>
 
