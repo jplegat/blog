@@ -11,6 +11,6 @@ dist
 # tooling state and macOS artefacts
 .remember
 .venv
-.DS_Store
-._*
+**/.DS_Store
+**/._*
 CLAUDE.md
