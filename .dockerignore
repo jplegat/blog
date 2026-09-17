@@ -1,0 +1,16 @@
+# VCS, editor, CI
+.git
+.github
+.vscode
+
+# build output and deps (rebuilt inside the image)
+node_modules
+dist
+.astro
+
+# tooling state and macOS artefacts
+.remember
+.venv
+.DS_Store
+._*
+CLAUDE.md
