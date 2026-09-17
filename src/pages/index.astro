@@ -9,12 +9,6 @@ const posts = (await getCollection('posts'))
 ---
 
 <BaseLayout title="jp.legat.io">
-  <div class="index-content framed">
-    <h1 id="hello-there">Welcome to my personal blog</h1>
-    <p>This is my personal blog.</p>
-    <p>Here you'll find articles on various topics including technology, programming, and personal insights. Feel free to explore the posts below and stay updated with my latest writings!</p>
-  </div>
-  
   <div class="posts">
     {posts.map((post) => <PostCard post={post} />)}
   </div>
