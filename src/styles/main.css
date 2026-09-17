@@ -191,7 +191,7 @@ ul ul {
 }
 
 :root {
-  --font-family: 'm6x11', monospace, sans-serif;
+  --font-family: "Google Sans Code Variable", "JetBrains Mono", Monaco, Consolas, "Ubuntu Mono", monospace;
 }
 
 * {
